@@ -1,0 +1,10 @@
+# build outputs
+/clawpatrol-amplitude-plugin
+/amplitude
+*.test
+
+# local editor/runtime files
+.DS_Store
+.env
+.env.*
+!.env.example
